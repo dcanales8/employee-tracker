@@ -9,9 +9,9 @@ This application demonstrates MySQL's ability to create, edit, and delete data f
 ![Screenshot](./assets/1.png)
 
 ## Technologies Used
-MySql
-MySQL Command Line
-CRUD
-Primary Keys
-Foreign Keys
-Node.js
+* MySql
+* MySQL Command Line
+* CRUD
+* Primary Keys
+* Foreign Keys
+* Node.js
